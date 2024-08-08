@@ -1,2 +1,6 @@
 Hi
+<<<<<<< HEAD
 Vanakam
+=======
+Hello
+>>>>>>> 3c7ab1333b75ee241e62c1ccfad4ad3cc8cd051e
